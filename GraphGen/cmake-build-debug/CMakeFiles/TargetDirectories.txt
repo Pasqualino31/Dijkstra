@@ -1,0 +1,3 @@
+/home/pj/CLionProjects/week3/GraphGen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pj/CLionProjects/week3/GraphGen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pj/CLionProjects/week3/GraphGen/cmake-build-debug/CMakeFiles/GraphGen.dir
